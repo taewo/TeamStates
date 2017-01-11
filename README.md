@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # REACT.JS Skeleton
 
 This project is a React workspace that you can simply start working on React.js project right away.
@@ -10,3 +11,7 @@ React 0.14.7, Babel 6 and webpack on Node.js is used to setup the environment.
 - ``npm start``  -Run the development server
 
 *Server port is set to **7777***
+=======
+# TeamStates
+TeamStates makes team more relative application
+>>>>>>> 72453d778cd55cfbcbf047cc2c7c1e0594f79814
